@@ -2,6 +2,8 @@
 
 [Скачать Hvost-Install.cmd 0.8.31](https://github.com/jisket/Hvost-Installer/releases/download/v0.8.31-alpha.1-pilot.20261113/Hvost-Install.cmd) · [Файлы выпуска](https://github.com/jisket/Hvost-Installer/releases/tag/v0.8.31-alpha.1-pilot.20261113)
 
+Для запуска сохраните CMD в обычную локальную папку, например «Загрузки». Запуск непосредственно из облачных синхропапок в этой версии ограничен проверкой путей.
+
 Откройте один CMD и выберите цифру:
 
 - **1 — установить или продолжить настройку.**
